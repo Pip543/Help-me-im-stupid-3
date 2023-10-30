@@ -1,14 +1,10 @@
 {
-  "manifest_version": 3,
   "name": "Cafe Game",
+  "description": "Play my game as a Chrome extension",
   "version": "1.0",
-  "description": "Play your game as a Chrome extension",
-  }
-  "permissions": [
-    "activeTab"
-  ],
+  "manifest_version": 3,
   "action": {
     "default_popup": "Microsoft Makecode Arcade.html",
     "default_icon": "cafe.png"
   }
- }
+}
