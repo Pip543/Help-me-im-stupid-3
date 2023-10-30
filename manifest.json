@@ -3,7 +3,7 @@
   "name": "Cafe Game",
   "version": "1.0",
   "description": "Play your game as a Chrome extension",
-  },
+  }
   "permissions": [
     "activeTab"
   ],
